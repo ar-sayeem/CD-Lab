@@ -1,5 +1,0 @@
-
-Date	: Today is 21th January, 2025.
-Location: Working from home.
-Doing	: Learning git bash commands, will upload a pdf full of bash commands soon.
-Sources	: Youtube, Google.
