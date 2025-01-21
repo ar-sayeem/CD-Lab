@@ -1,0 +1,6 @@
+To merge the `Home-draft` branch into the `main` branch:
+
+1. `git checkout main` 			→ Switch to the `main` branch.
+2. `git pull origin main` 		→ Ensure the `main` branch is up to date with the remote repository.
+3. `git merge Home-draft` 		→ Merges the `Home-draft` branch into `main`.
+4. `git push origin main` 		→ Pushes the merged changes to the remote `main` branch.

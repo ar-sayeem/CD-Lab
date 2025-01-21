@@ -1,0 +1,5 @@
+To see the files in the `Home-draft` branch:
+
+1. `git checkout Home-draft` 	→ Switch to the `Home-draft` branch.
+2. `ls` 	→ Lists the files in the current directory of the `Home-draft` branch. 
+3. `git ls-tree --name-only Home-draft` 	→ Lists all files in the `Home-draft` branch (including files in subdirectories).
