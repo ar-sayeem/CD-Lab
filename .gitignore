@@ -1,4 +1,4 @@
-# Ignore compiled files
+# Ignore compiled files [this is my first gitignore file yee!]
 *.exe
 *.o
 *.out
