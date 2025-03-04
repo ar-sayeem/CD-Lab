@@ -22,5 +22,5 @@ int main() {
         printf("Not a comment\n");
     }
 
-    return 0;
+    return 1;
 }
