@@ -1,0 +1,6 @@
+Problem Set:
+1. Write a program that will count the length of a string.
+
+2. Write a C program that will count the number of white spaces from a string.
+
+3. C program that will remove white space from a string.

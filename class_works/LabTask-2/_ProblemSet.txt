@@ -1,0 +1,4 @@
+Problem Set:
+1. Write a program that will count vowel, consonant, and digit.
+
+2. Write two C program that will tokenize a string. (using strtok() and also without using any library function)
